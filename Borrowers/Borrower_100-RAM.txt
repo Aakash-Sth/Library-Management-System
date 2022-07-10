@@ -1,0 +1,17 @@
+		   Borrowing Details
+
+Transaction ID: 100
+Borrower name: RAM
+Borrowing Date: 08/25/21     Borrowing Time: 01:36:55
+
+S.N: 1
+Borrowed book: Harry Potter
+Price: Rs200
+
+S.N: 2
+Borrowed book: Start With Why
+Price: Rs150
+
+Total Price: Rs350
+
+		***Thank you for borrowing***

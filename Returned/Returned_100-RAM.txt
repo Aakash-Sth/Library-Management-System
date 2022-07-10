@@ -1,0 +1,19 @@
+		   Returning Details
+
+Transaction ID: 100
+Borrower name: RAM
+Returning Date: 09/07/21     Returning Time: 15:55:57
+
+S.N: 1
+Borrowed book: Harry Potter
+Price: Rs200
+
+S.N: 2
+Borrowed book: Start With Why
+Price: Rs150
+
+ Total Price: Rs350
+	Fine: Rs40
+Total Amount: Rs390
+
+Note: Fines are applied if you exceed 10 days of borrowing.
